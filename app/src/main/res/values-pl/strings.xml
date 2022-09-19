@@ -290,6 +290,7 @@
     <string name="dt_darkaubergine">Ciemny Bakłażan</string>
     <string name="dt_style">Ciemny niebieski</string>
     <string name="dt_darkgray">Ciemno szary</string>
+    <string name="dt_materialocean" translatable="false">Material Ocean</string>
     <string name="dt_night">Noc</string>
     <string name="dt_solarizeddark">Solarized Dark</string>
 
@@ -306,10 +307,12 @@
 
     <!-- Clock position -->
     <string name="clock_default">Lewa strona (domyślnie)</string>
+    <string name="clock_default_extra">Lewa strona - Nad powiadomieniami</string>
     <string name="clock_center">Środek</string>
     <string name="clock_right">Prawa strona</string>
 
     <!-- AM/PM style -->
+    <string name="am_pm_default" translatable="false">@string/hide_default</string>
     <string name="am_pm_normal">100% rozmiaru zegara</string>
     <string name="am_pm_small">70% rozmiaru zegara</string>
 
