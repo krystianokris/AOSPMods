@@ -12,8 +12,8 @@
     <string name="general_off">Wyłączony</string>
     <string name="sysui_restart_needed">Wymaga ponownego uruchomienia SystemUI do zastosowania</string>
     <string name="restart_needed">Wymaga ponownego uruchomienia, aby zastosować</string>
-    <string name="more_area">więcej obszaru</string>
-    <string name="less_area">mniejszy obszar</string>
+    <string name="more_area">Większy obszar</string>
+    <string name="less_area">Mniejszy obszar</string>
 
     <!--Category titles-->
     <string name="lockscreen_header_title">Ekran blokady</string>
@@ -129,7 +129,7 @@
     <string name="BB_colorful_title">Niech to będzie kolorowe</string>
     <string name="BB_Opacity_title">Krycie paska</string>
     <string name="BB_center_align_title">Wyrównany do środka</string>
-    <string name="BB_Thickness_title">Grubość pręta</string>
+    <string name="BB_Thickness_title">Grubość</string>
     <string name="BB_indicate_charging">Wskaż ładowanie</string>
     <string name="BB_indicate_fast_charging">Wskaż szybkie ładowanie</string>
     <string name="BB_warning_level">Zakres poziomu ostrzegawczego</string>
